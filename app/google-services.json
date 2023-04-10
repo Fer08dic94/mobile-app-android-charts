@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230276815697",
+    "firebase_url": "https://pi-203-1-185a2-default-rtdb.firebaseio.com",
+    "project_id": "pi-203-1-185a2",
+    "storage_bucket": "pi-203-1-185a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230276815697:android:026ffece380ac4f425d170",
+        "android_client_info": {
+          "package_name": "com.example.graficasweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230276815697-gn81tooj0iqv0q30rtj6do23ag2rv18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbeGr5-ZRAVDnqEbmrRT_S2o8mQEUiww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230276815697-gn81tooj0iqv0q30rtj6do23ag2rv18c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

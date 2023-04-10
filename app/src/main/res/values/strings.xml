@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Count</string>
+    <string name="login_tit">Inicio de sesión</string>
+    <string name="kpis_tit">KPIS</string>
+    <string name="graficas_title">Gráficas</string>
+    <string name="login_title">INICIO DE SESIÓN</string>
+    <string name="login_username">Ingresa tu usuario</string>
+    <string name="login_password">Ingresa tu contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="grafica_barras_title">Gráfica de Barras</string>
+    <string name="grafica_pastel_title">Gráfica de Pastel</string>
+    <string name="grafica_lineal_title">Gráfica Lineal</string>
+</resources>
